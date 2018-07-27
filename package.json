@@ -1,0 +1,14 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "Test my calculator",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sumithra Hosabettu",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
